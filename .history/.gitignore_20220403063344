@@ -1,0 +1,13 @@
+.terraform/
+.terraform.lock.hcl
+DataServerRunUp.sh
+
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+terraform.tfstate.d/
+Staging.tfvars
+Prod.tfvars
+
+Vars.yml
+

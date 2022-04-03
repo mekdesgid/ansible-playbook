@@ -1,0 +1,12 @@
+http_port: 8080
+public_ip: 20.81.125.41
+git_repo: https://github.com/lihaybs/bootcamp-app.git
+deploy_directory: bootcamp-app
+pg_host: thegreatdata.postgres.database.azure.com
+pg_username: postgres
+pg_database: postgres
+pg_password: Hakolzorem2022
+okta_org_url: dev-50792663.okta.com
+okta_client_id: 0oa437dn5jwwONx5N5d7
+okta_client_secret: xjpwsDFzJjDa91xiX6nipNtVw1vTzJoQI1cf03pj
+var_file_path: StagingVars.yml

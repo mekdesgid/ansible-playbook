@@ -1,0 +1,9 @@
+[Staging]
+server1 ansible_host=<your host ip>
+server2 ansible_host=<your host ip>
+
+[Production]
+server1 ansible_host=<your host ip>
+server2 ansible_host=<your host ip>
+server3 ansible_host=<your host ip>
+server4 ansible_host=<your host ip>

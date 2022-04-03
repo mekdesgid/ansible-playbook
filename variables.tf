@@ -38,7 +38,7 @@ variable "admin_password" {
 
 }
 variable "okta_secret" {
-  default = "XRTjnYOnUO-gvWTnIcTjtyBGxCFjWIokmZIoOYhx"
+  default = "F3CU7L_iBNlg_coy7dvz0R0tQP8VqgMq0L9HrilB"
 }
 
 variable "okta_client_id" {

@@ -4,8 +4,7 @@ variable "VnetName" {
 
 }
 variable "ScaleSetName" {
-    default = "AppScaleSet"
-    
+    default = "AppScaleSet"   
 
 }
 

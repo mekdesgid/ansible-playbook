@@ -1,6 +1,5 @@
-![This is an image](provisioning_infrastructure_with_terraform.png)
 
-# Description
+# Terraform
 
 in this template we are building an Elastic High Availability
 virtual network on azure with terraform code.

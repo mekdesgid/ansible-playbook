@@ -1,0 +1,11 @@
+http_port: 8080
+public_ip: <Your public IP>
+git_repo: <Your reposetory to clone the App>
+deploy_directory: bootcamp-app
+pg_host: <Your Pg host>
+pg_username: postgres
+pg_database: postgres
+pg_password: <Your password>
+okta_org_url: <Your OKTA url like dev-*******.okta.com>
+okta_client_id: <Your client ID>
+okta_client_secret: <Your client secret>
